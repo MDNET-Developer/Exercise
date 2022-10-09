@@ -1,0 +1,16 @@
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.exe
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.deps.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.runtimeconfig.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.runtimeconfig.dev.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\bin\Debug\net5.0\Alqoritm13.pdb
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.AssemblyInfo.cs
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\refint\Alqoritm13.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.pdb
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\Alqoritm13.genruntimeconfig.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm13\obj\Debug\net5.0\ref\Alqoritm13.dll

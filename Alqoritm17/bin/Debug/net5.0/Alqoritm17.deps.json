@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Alqoritm17/1.0.0": {
+        "runtime": {
+          "Alqoritm17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alqoritm17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

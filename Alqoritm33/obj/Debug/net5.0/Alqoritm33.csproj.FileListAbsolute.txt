@@ -1,0 +1,16 @@
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.AssemblyInfo.cs
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.exe
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.deps.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.runtimeconfig.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.runtimeconfig.dev.json
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\bin\Debug\net5.0\Alqoritm33.pdb
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\refint\Alqoritm33.dll
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.pdb
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\Alqoritm33.genruntimeconfig.cache
+D:\MyProjects\NEW\Alqoritm1\Alqoritm33\obj\Debug\net5.0\ref\Alqoritm33.dll
